@@ -1,0 +1,47 @@
+
+
+{
+    "folders":
+    [
+        {
+            "path": "."
+        }
+    ],
+
+    "build_systems":
+    [
+        {
+            "name": "Build",
+            "cmd": [ "ninja"],
+            "working_dir": "${project_path}/build/debug",
+            "path": "/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:",
+            "file_regex": "/([^/:]+):(\\d+):(\\d+): ",
+            "variants": [
+                {
+                    "name": "CMake",
+                    "cmd": [ "/usr/local/bin/cmake", "-DCMAKE_BUILD_TYPE=Debug", "-G", "Ninja", "../.."],
+                },
+                {
+                    "name": "Ninja",
+                    "cmd": [ "ninja"]
+                },
+                {
+                    "name": "Run",
+                    "cmd": [ "${project_path}/build/debug/arkesia" ]
+                }
+            ]
+        }
+    ],
+
+    "settings":
+    {
+        "sublimegdb_commandline": "gdb --interpreter=mi myapp",
+        "sublimegdb_workingdir": "build",
+
+        "sublimeclang_options" :
+        [
+            "-Wno-reorder"
+        ],
+        "sublimeclang_options_script": "${project_path:scripts/compileflags.rb} ${project_path:build}"
+    }
+}

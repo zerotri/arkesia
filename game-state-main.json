@@ -1,0 +1,12 @@
+{
+	"name": "game-state-main",
+	"executable": "game_state_main.dylib",
+	"type": "build::dynamic",
+	"sources": [
+		"plugins/game_state_main/game_state_main.cpp"
+	],
+	"includes": [
+		"src",
+		"plugins/game_state_main"
+	]
+}

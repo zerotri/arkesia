@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"plug",
+				"plugin_t"
+			],
+			[
+				"plugin",
+				"plugin_t"
+			],
+			[
+				"disk",
+				"diskUsage"
+			],
+			[
+				"pwm",
+				"pwmChannel"
+			],
+			[
+				"out",
+				"outfile"
+			],
+			[
+				"get",
+				"get_image_filename"
+			],
+			[
+				"image",
+				"image_path"
+			],
+			[
+				"su",
+				"supported_operating_systems"
+			],
+			[
+				"os",
+				"os_number"
+			],
+			[
+				"rasp",
+				"Raspbian"
+			],
+			[
+				"proj",
+				"project_name"
+			],
+			[
+				"ras",
+				"raspbian_image"
+			],
+			[
+				"sta",
+				"stak_folder"
+			],
+			[
+				"selec",
+				"selected_card"
+			],
+			[
+				"fat",
+				"fat_partitions"
+			],
+			[
+				"ke",
+				"key_file"
+			],
+			[
+				"sub",
+				"subprocess"
+			],
+			[
+				"config",
+				"config_data"
+			],
+			[
+				"loca",
+				"local_data"
+			],
+			[
+				"lo",
+				"local_data"
+			],
+			[
+				"device",
+				"device_name"
+			],
+			[
+				"rsy",
+				"rsync_comand"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"build",
+				"build_type"
+			],
+			[
+				"pro",
+				"Project"
+			],
+			[
+				"dynamic",
+				"dynamic_library"
+			],
+			[
+				"file",
+				"file_input"
+			],
+			[
+				"sour",
+				"sources"
+			],
+			[
+				"comp",
+				"compilation_string"
+			],
+			[
+				"compi",
+				"compiler_string"
+			],
+			[
+				"source",
+				"sources_building"
+			],
+			[
+				"inclue",
+				"includes"
+			],
+			[
+				"project",
+				"project_name"
+			],
+			[
+				"frame",
+				"frame_count"
+			],
+			[
+				"new_",
+				"new_buffer_size"
+			],
+			[
+				"buff",
+				"buffer_pool"
+			],
+			[
+				"stak",
+				"stak_log"
+			],
+			[
+				"MMAL",
+				"MMAL_SUCCESS"
+			],
+			[
+				"output",
+				"output_port"
+			],
+			[
+				"out_bu",
+				"out_buffer_size"
+			],
+			[
+				"resize",
+				"resizer_component"
+			],
+			[
+				"buffer",
+				"buffer_port"
+			],
+			[
+				"null",
+				"null_ptr"
+			],
+			[
+				"lock",
+				"locked_buffer"
+			],
+			[
+				"input",
+				"input_port"
+			],
+			[
+				"rpi_camera_output_read",
+				"rpi_camera_output_read_frame_begin"
+			],
+			[
+				"spl",
+				"splitter_component"
+			],
+			[
+				"rpi_camera",
+				"rpi_camera_output_create"
+			],
+			[
+				"spli",
+				"splitter"
+			],
+			[
+				"splitter",
+				"splitter_component"
+			],
+			[
+				"shu",
+				"shutter_speed"
+			],
+			[
+				"expo",
+				"exposure_compensation"
+			],
+			[
+				"stak_",
+				"stak_error_throw"
+			],
+			[
+				"key",
+				"array_key_exists"
+			],
+			[
+				"turret",
+				"turretStateManager"
+			],
+			[
+				"Turret",
+				"TurretState_Patrol"
+			],
+			[
+				"slee",
+				"sleep_delay"
+			],
+			[
+				"sleep",
+				"sleep_delta"
+			],
+			[
+				"motor_",
+				"motor_frequency"
+			],
+			[
+				"targ",
+				"targetPos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "arkesia_plugins.hpp",
+			"settings":
+			{
+				"buffer_size": 1579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "arkesia.cpp",
+			"settings":
+			{
+				"buffer_size": 2745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/zerotri/Development/Projects/Arkesia/Arkesia.sublime-project",
+			"settings":
+			{
+				"buffer_size": 1096,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/zerotri/Development/Projects/Arkesia/plugins/game_state_main/game_state_main.cpp",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "arkesia.hpp",
+			"settings":
+			{
+				"buffer_size": 1329,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++11/C++11.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 101.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"shell",
+				"SublimeREPL: Shell"
+			],
+			[
+				"python",
+				"SublimeREPL: Python"
+			],
+			[
+				"clang",
+				"Clang Format: Format Selection"
+			],
+			[
+				"format",
+				"SublimeAStyleFormmatter: Format Current Selection"
+			],
+			[
+				"c++11",
+				"Set Syntax: C++11"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"github",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"markdown",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"beai",
+				"HTMLBeautify"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/zerotri/Development/Projects/Arkesia",
+		"/Users/zerotri/Development/Projects/Arkesia/src"
+	],
+	"file_history":
+	[
+		"/Users/zerotri/Development/Projects/Arkesia/src/Arkesia.sublime-project",
+		"/Users/zerotri/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zerotri/Development/Projects/Arkesia/src/arkesia.cpp",
+		"/Users/zerotri/Development/Projects/Arkesia/plugins/game_state_main/CMakeLists.txt",
+		"/Users/zerotri/Library/Application Support/Sublime Text 3/Packages/User/cmake.sublime-build",
+		"/Users/zerotri/Development/ntc/stak/libStakHardware/include/stak/system.hpp",
+		"/Users/zerotri/Development/Projects/Arkesia/src/CMakeLists.txt",
+		"/Users/zerotri/Development/Projects/Arkesia/tools/build/build.cpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/io/buzzer.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/camera.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/io/buzzer.cpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/power.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/power.cpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/disk.cpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/wifi.cpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/types.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/stak.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/disk.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/io/pwm.hpp",
+		"/Users/zerotri/Development/ntc/otto/otto-sdk/lib/stak/devices/wifi.hpp",
+		"/Users/zerotri/Development/ntc/stak-cli/stak/commands/Devices.py",
+		"/Users/zerotri/Development/ntc/stak-cli/stak/util/Util.py",
+		"/Users/zerotri/Development/ntc/stak-cli/setup.py",
+		"/Users/zerotri/Development/ntc/stak-cli/stak/util/DD.py",
+		"/Users/zerotri/Development/ntc/stak-cli/stak/stak.py",
+		"/Users/zerotri/Development/ntc/stak-cli/stak/commands/Create.py",
+		"/Users/zerotri/Development/ntc/stak-cli/sdcard-scripts/installer-config.txt",
+		"/Volumes/BOOT/installer-config.txt",
+		"/Volumes/BOOT/post-install.txt",
+		"/Users/zerotri/Development/ntc/stak-cli/sdcard-scripts/post-install.txt",
+		"/Users/zerotri/Development/ntc/projects/stak-example-python/build/Procfile",
+		"/Users/zerotri/netinst-changes2",
+		"/Volumes/NO NAME/installer-config.txt",
+		"/Volumes/NO NAME/post-install.txt",
+		"/Users/zerotri/netinst-changes",
+		"/Users/zerotri/Development/ntc/stak-cli/commands/Devices.py",
+		"/Users/zerotri/Development/ntc/stak-cli/util/Project.py",
+		"/Users/zerotri/Development/ntc/projects/cpp-test/build/Procfile",
+		"/Users/zerotri/Development/ntc/stak-cli/util/Util.py",
+		"/Users/zerotri/Development/ntc/stak-cli/stak.py",
+		"/Users/zerotri/Development/ntc/stak-cli/commands/Create.py",
+		"/Users/zerotri/Development/ntc/stak/stak-check-sd-sizes.sh",
+		"/Users/zerotri/Development/ntc/stak-cli/readme.rst",
+		"/Users/zerotri/Development/ntc/stak-cli/util/DD.py",
+		"/Users/zerotri/Development/ntc/stak-cli/MANIFEST.in",
+		"/usr/local/bin/stak",
+		"/Users/zerotri/Development/ntc/stak-cli/stak.cfg",
+		"/Users/zerotri/Development/Projects/Arkesia/src/term11/term11.hpp",
+		"/Users/zerotri/Development/ntc/projects/alarmpi-test/buffering.py",
+		"/Users/zerotri/Development/ntc/stak-cli/util/Config.py",
+		"/Users/zerotri/Development/ntc/stak-cli/util/Device.py",
+		"/Users/zerotri/Development/ntc/projects/alarmpi-test/stak.yml",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/provisioning-scripts/guest-007-install-libbcm2835.sh",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/Vagrantfile",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/provision.sh",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/provisioning-scripts/host-001-install-otto-repos.sh",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/README.md",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/provisioning-scripts/common.sh",
+		"/Users/zerotri/Development/NextThing.co/stak-cli/commands/__init__.py",
+		"/Users/zerotri/Development/NextThing.co/stak-cli/commands/create.py",
+		"/Users/zerotri/Development/NextThing.co/stak-cli/lib/complex_cli.py",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/otto-sdk/src/application/application.cpp",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/otto-sdk/Makefile",
+		"/opt/stak-sources/libcxxabi/build/Makefile",
+		"/Users/zerotri/Development/NextThing.co/otto-creator/otto-sdk/Makefile-common.inc",
+		"/Users/zerotri/Desktop/otto-update.cpp",
+		"/Users/zerotri/Development/Projects/bcmio/src/bcmio/generate_mask_t.hpp",
+		"/Users/zerotri/Development/Projects/Arkesia/tools/build/build.h",
+		"/Users/zerotri/Development/Projects/Arkesia/src/arkesia.h",
+		"/Users/zerotri/Development/Projects/Arkesia/untitled",
+		"/Users/zerotri/Development/Projects/Arkesia/tools/build/json.h",
+		"/Users/zerotri/Development/Projects/Arkesia/build",
+		"/Users/zerotri/Development/Projects/Arkesia/plugins/game_state_main/game_state_main.cpp",
+		"/Users/zerotri/Development/Projects/Arkesia/plugins/game_state_main/game_state_main.h",
+		"/Users/zerotri/Development/Projects/Arkesia/arkesia.h",
+		"/Users/zerotri/Development/Projects/Arkesia/arkesia.cpp",
+		"/Users/zerotri/Development/Projects/Arkesia/#!:bin:bash",
+		"/Volumes/Raspberry Pi/otto-sdk/Makefile",
+		"/Volumes/Raspberry Pi/otto-sdk/src/modes/camera/camera.c",
+		"/Volumes/Raspberry Pi/otto-sdk/src/stak.h",
+		"/Volumes/Raspberry Pi/otto-sdk/lib/camera/rpi_camera.h",
+		"/Volumes/Raspberry Pi/otto-sdk/lib/camera/rpi_camera.c",
+		"/Volumes/Raspberry Pi/otto-sdk/lib/gif-h.c",
+		"/Users/zerotri/Desktop/copy/visor/vt100.h",
+		"/Volumes/Raspberry Pi/otto-sdk/Makefile-common.inc",
+		"/Volumes/Raspberry Pi/otto-sdk/src/application/application.c",
+		"/Volumes/Raspberry Pi/otto-sdk/src/application/application.h",
+		"/Volumes/Raspberry Pi/otto-sdk/lib/gif-h.h",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/provisioning/playbook.yml",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/rtest",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/src/apis/hal/display/display.h",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/src/application/application.c",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/src/application/application.h",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/src/main.c",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/Makefile",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/src/Makefile-common.inc",
+		"/Users/zerotri/Development/NextThing.co/stak-sdk/box/otto-sdk/main.c",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/10B4E5C5-3DD5-4894-9FC9-994E5AB5215E/bgfx.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/A5466202-E0B9-46DD-B025-4791B9E3891D/bgfx.mk",
+		"/Users/zerotri/Development/Make/turret/TurretState_Manual.py",
+		"/Users/zerotri/Development/NextThing.co/otto-sdk/graphics/seps114a/seps114a.c",
+		"/Users/zerotri/Development/Projects/cpp_when/main.cpp",
+		"/Users/zerotri/Development/NextThing.co/otto-sdk/graphics/canvas/canvas.h",
+		"/Users/zerotri/Development/NextThing.co/otto-sdk/docs/spec-api.md",
+		"/Users/zerotri/Development/NextThing.co/otto-sdk/docs/spec-api.mdown",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/3F7961CE-3BF5-4C60-8432-E636C0181149/b43-firmware.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/91CFADCA-C32F-4D01-AAB1-8DDE5C28C317/libbcm2835.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/8784E6E8-3CB3-47EE-BB0A-4F462EA64D1B/stak.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/DBAB7801-4082-41EF-9400-A844B88056FB/stak.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/D741C865-26C6-4FA7-998F-A9E2C6CF3BDD/Config.in",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/63008187-20F4-468C-ACF9-6BA0149969E2/.config",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/CB42AEC5-239A-4D01-971C-2C82774917E0/libbcm2835.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/6E299F9A-2356-4D2E-977A-2A4D44967AAA/stak.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/982BE0A8-C64A-4550-973B-51D927751656/sunxi-boards.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/C0125A9D-F4C0-4843-9130-4315F57C69CA/Config.in",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/9F331F35-36BC-4646-BA81-420275AEEC48/raspberrypi-3.15_defconfig",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/3D52868C-73EA-45F4-B951-9FBC41F1F54C/raspberrypi-3.12_defconfig",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/19A1CAF0-A960-4144-B0EF-254E5A67A474/raspberrypi-3.12_defconfig",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/E1B4865A-39BA-49D4-8E0B-9E51222BA3D3/Config.in",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/46D69962-DF7C-41DD-818F-87684A57F5B3/.defconfig",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/9481A91A-7B63-4F39-8E87-E94201831A68/postscript.sh",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/32CD49F6-3A0B-44B2-A940-E73528E88969/pkg-generic.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/292ADA8D-5848-463C-BA00-725C24ECE49A/stak.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/F5FD1F70-F49E-440A-92C6-CBB6248F655E/Config.in",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/382E94DE-1BEA-4B5C-ABE0-DD2CE68E8C06/Config.in",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/8F76681B-1BF3-4258-AC61-902C66DCE664/libbcm2835.mk",
+		"/Users/zerotri/Library/Caches/Cleanup At Startup/Transmit/1E1ACEFA-BECF-4068-AE12-3F7EF1AB7B64/Config.in",
+		"/Users/zerotri/Development/NextThing.co/otto-sdk/hardware-test.c"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"*.php",
+			"",
+			"*.css",
+			"*.less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Buzzer",
+			"Pwm",
+			"flash_card",
+			"find_valid_sd_cards",
+			"Util.find_valid_sd_cards",
+			"find_list_items_containing",
+			"os",
+			"bz2",
+			"get_is_image",
+			"Etag",
+			"find_valid_",
+			"find_fat_partitions",
+			")",
+			"echo",
+			"raise_privileges",
+			"Using the latest image. Continuing...",
+			"Script not started as root. Running sudo",
+			"click.style",
+			"style",
+			"${ROOTFS}",
+			"/rootfs/",
+			"stak-r",
+			"run_ssh_command",
+			"ssh",
+			"push_to_device",
+			"ssh",
+			"build",
+			"create",
+			"do_expand_rootfs",
+			"click.style",
+			"dd",
+			"wrapper",
+			"display",
+			"read",
+			"ssh",
+			"~",
+			"expand",
+			"user",
+			"kwargs",
+			"flash_card",
+			"nano",
+			"Config data not being set properly",
+			"is None",
+			"get",
+			"configuration",
+			"armv6-linux-gnueabi",
+			"CXX",
+			"System",
+			"LD",
+			"/opt/sources",
+			"ld",
+			"-X",
+			"ARGET",
+			"-mno-thumb",
+			"CROSS",
+			"spi",
+			"source_build_",
+			"source_",
+			"cout",
+			"char",
+			"build_project_name",
+			"build_project",
+			"SEPS114A_MEMORY_WRITE_READ",
+			"swap_rgb",
+			"rpi_camera_output_read_frame_begin",
+			"enable",
+			"is_enabled",
+			"splitter",
+			"rpi_camera_create_splitter_component_and_setup_ports",
+			"create_",
+			"rpi_camera_output_read_frame_begin",
+			"const",
+			"out_buffer",
+			"out_buffer'",
+			"rpi_camera_output_read_frame_begin",
+			"memcpy",
+			"rgb_buffer",
+			"locked_buffer",
+			"rpi_camera_output_enable_port_callback_and_create_buffer_pool",
+			"call",
+			"TODO",
+			"frame_begin",
+			"userdata",
+			"rpi_camera_output_enable_port_callback_and_create_buffer_pool",
+			"rpi_camera_output_read_frame",
+			"rpi_camera_video_buffer_callback",
+			"rpi_camera_output_create",
+			"output->output_queue",
+			"rpi_camera_create",
+			"create_camera_component",
+			"rpi_camera_create",
+			"rpi_camera_control_callback",
+			"stak_log",
+			"setup",
+			"create_resize",
+			"rpi_camera_create_splitter_component_and_setup_ports",
+			"stak_log",
+			"rpi_camera_create_splitter_component_and_setup_ports",
+			"destroy",
+			"control",
+			"splitter_component",
+			"video_out",
+			"raspicamcontrol_get_saturation",
+			"raspicamcontrol_set_saturation",
+			"raspicamcontrol_set_all_parameters",
+			"	struct settings {\nVirtualAll",
+			"VirtualAll",
+			"#ifndef STAK_API_HAL_DISPLAY_H\n#define STAK_API_HAL_DISPLAY_H\n\n#endif",
+			"SEPS114A_DISPLAYSTART_X",
+			"stak_seps114a_write_data",
+			"initi2c",
+			"Write_BQ27510",
+			"I2C_BUSY",
+			"receiveByte",
+			"CNTL",
+			"delay",
+			"Supported displays",
+			"EXPORT",
+			"list",
+			"ssd1331",
+			"gpio_set_value",
+			"gpios",
+			"\"t",
+			"\n					{ \"cs\", 21 },",
+			"spi_board_info",
+			"write_reg",
+			"$(\"input\")",
+			"\"input\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"${ROOTFS}/",
+			"$SOURCES"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "arkesia_plugins.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								659,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "arkesia.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								677,
+								677
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/zerotri/Development/Projects/Arkesia/Arkesia.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/zerotri/Development/Projects/Arkesia/plugins/game_state_main/game_state_main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "arkesia.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								562,
+								562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Arduino Motor Control":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Build",
+	"project": "Arkesia.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

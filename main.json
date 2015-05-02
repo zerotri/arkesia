@@ -1,0 +1,11 @@
+{
+	"name": "main",
+	"executable": "main",
+	"type": "build::executable",
+	"sources": [
+		"src/arkesia.cpp"
+	],
+	"includes": [
+		"src"
+	]
+}
