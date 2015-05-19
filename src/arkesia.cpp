@@ -24,7 +24,7 @@ int main( int argc, const char* argv[] ) {
             << reinterpret_cast<void *>( offset )
             << std::endl;
 
-  auto plugin = ark::plugin::load( "./plugins/game_state_main/game_state_main.dylib" );
+  auto plugin = ark::plugin::load( "/plugins/game_state_main/game_state_main.dylib" );
 
   if (SDL_Init(SDL_INIT_VIDEO) != 0) {
     std::cout << "SDL_Init Error: " << SDL_GetError() << std::endl;

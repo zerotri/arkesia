@@ -12,8 +12,8 @@ ARK_EXPORT void update( float dt ) {
 
 }
 ARK_EXPORT void draw( ) {
-	glClear(GL_COLOR_BUFFER_BIT);
-	std::cout << "Hello plugin world!" << std::endl;
+	glClearColor(0, 0, 0, 1);
+	glClear( GL_COLOR_BUFFER_BIT );
 }
 ARK_EXPORT void* get_api( uint32_t ) {
 

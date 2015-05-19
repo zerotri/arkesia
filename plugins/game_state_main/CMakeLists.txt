@@ -10,7 +10,8 @@ include_directories(
 	${ARKESIA}/src
 )
 
-add_library(game_state_main ${sources})
+add_library(game_state_main SHARED ${sources})
+target_link_libraries(game_state_main Regal)
 if (APPLE)
     set_property(TARGET game_state_main PROPERTY PREFIX "")
     set_property(TARGET game_state_main PROPERTY OUTPUT_NAME "game_state_main.dylib")
